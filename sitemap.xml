@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://craftmyfuture.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://craftmyfuture.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://craftmyfuture.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://craftmyfuture.com/"/>
+    <lastmod>2026-10-02</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://craftmyfuture.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://craftmyfuture.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://craftmyfuture.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://craftmyfuture.com/"/>
+    <lastmod>2026-10-02</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://craftmyfuture.com/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://craftmyfuture.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://craftmyfuture.com/tr/gizlilik/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://craftmyfuture.com/privacy/"/>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://craftmyfuture.com/tr/gizlilik/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://craftmyfuture.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://craftmyfuture.com/tr/gizlilik/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://craftmyfuture.com/privacy/"/>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://craftmyfuture.com/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://craftmyfuture.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://craftmyfuture.com/tr/kosullar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://craftmyfuture.com/terms/"/>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://craftmyfuture.com/tr/kosullar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://craftmyfuture.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://craftmyfuture.com/tr/kosullar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://craftmyfuture.com/terms/"/>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.3</priority>
+  </url>
+</urlset>
