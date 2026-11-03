@@ -63,7 +63,9 @@ p { margin: 0 0 1em; }
 }
 .site-header .wrap { display: flex; align-items: center; gap: 12px; min-height: 64px; flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 900; font-size: 1.2rem; color: var(--ink); text-decoration: none; }
-.brand img { width: 36px; height: 36px; }
+.brand img { width: auto; height: 44px; display: block; }
+.hero-logo { display: block; width: min(100%, 520px); height: auto; margin: 0 0 18px -6px; }
+@media (max-width: 480px) { .brand img { height: 36px; } }
 .nav { margin-left: auto; display: flex; align-items: center; gap: 4px; }
 .nav ul { list-style: none; margin: 0; padding: 0; display: none; gap: 4px; }
 .nav a { display: inline-block; padding: .45em .75em; border-radius: 999px; font-weight: 800; color: var(--ink); text-decoration: none; }
